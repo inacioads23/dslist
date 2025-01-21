@@ -27,9 +27,14 @@ public class Game {
 	private String platforms;
 	private Double score;
 	private String imgUrl;
+	
+	@Column(columnDefinition = "TEXT") //Define o tipo de campo como texto no DB. O que permite textos acima de 256 caracteres
 	private String shortDescription;
+	
+	@Column(columnDefinition = "TEXT") //Define o tipo de campo como texto no DB. O que permite textos acima de 256 caracteres
 	private String longDescription;
 
+	
 	// Construtor vazio
 	public Game() {
 		
