@@ -23,6 +23,7 @@ public class GameMinDTO {
 	}
 
 	//Não precisa de Setters, pois farei apenas busca
+	//Getters e Setters
 	public Long getId() {
 		return id;
 	}
