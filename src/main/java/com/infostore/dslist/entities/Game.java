@@ -10,7 +10,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
-
 @Entity //Configura minha classe para ela se tornar equivalente a uma tabela do DB relacional
 @Table(name = "tb_game")
 public class Game {
