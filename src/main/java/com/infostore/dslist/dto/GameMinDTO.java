@@ -1,6 +1,7 @@
 package com.infostore.dslist.dto;
 
 import com.infostore.dslist.entities.Game;
+import com.infostore.dslist.projections.GameMinProjection;
 
 public class GameMinDTO {
 	private Long id;
@@ -20,6 +21,14 @@ public class GameMinDTO {
 		year = entity.getYear();
 		imgUrl = entity.getImgUrl();
 		shortDescription = entity.getShortDescription();
+	}
+	
+	public GameMinDTO(GameMinProjection projection) {
+		id = projection.getId();
+		title = projection.getTitle();
+		year = projection.getYear();
+		imgUrl = projection.getImgUrl();
+		shortDescription = projection.getShortDescription();
 	}
 
 	//Não precisa de Setters, pois farei apenas busca
