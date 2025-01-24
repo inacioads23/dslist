@@ -93,6 +93,8 @@ Docker ou Postgresql + pgAdmin ou DBeaver
 3. Criar base de dados de homologação
 4. Rodar app no modo dev e validar
 
+---
+
 ### Passos deploy CI/CD
 
 #### Pré-requisitos
@@ -119,3 +121,15 @@ CORS_ORIGINS
 5. Configurar o domínio público para a aplicação
 6. Testar app no Postman
 7. Testar a esteira de CI/CD
+
+---
+
+### Resumo - 3º Dia
+
+* Perfis de projeto
+* Ambiente local com Docker Compose
+* Processo de homologação local
+* Processo de deploy com CI/CD
+* Configuração de CORS
+
+---
