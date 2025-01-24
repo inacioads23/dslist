@@ -92,3 +92,30 @@ Docker ou Postgresql + pgAdmin ou DBeaver
 /* apagar arquivo gerado
 3. Criar base de dados de homologação
 4. Rodar app no modo dev e validar
+
+### Passos deploy CI/CD
+
+#### Pré-requisitos
+- Conta no Railway
+- Conta no Github com mais de 90 dias
+- Projeto Spring Boot salvo no seu Github
+- Script SQL para criação e seed da base de dados
+- Aplicativo de gestão de banco instalado (pgAdmin ou DBeaver)
+
+#### Passos Railway
+1. Prover um servidor de banco de dados
+2. Criar a base de dados e seed
+3. Criar uma aplicação Railway vinculada a um repositório Github
+4. Configurar variáveis de ambiente
+
+```
+APP_PROFILE
+DB_URL (Formato: jdbc:postgresql://host:porta/nomedabase)
+DB_USERNAME
+DB_PASSWORD
+CORS_ORIGINS
+```
+
+5. Configurar o domínio público para a aplicação
+6. Testar app no Postman
+7. Testar a esteira de CI/CD
