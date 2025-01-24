@@ -28,9 +28,9 @@
 ### Resumo - 1º Dia
 
 * Conceitos
-** Sistemas web e recursos
-** Cliente/servidor, HTTP, JSON
-** Padrão Rest para API web
+  * Sistemas web e recursos
+  * Cliente/servidor, HTTP, JSON
+  * Padrão Rest para API web
 * Estruturação de projeto Spring Rest
 * Entidades e ORM
 * Database seeding
