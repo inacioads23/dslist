@@ -5,7 +5,7 @@
 * Criar um projeto Java Spring para conhecimento e para acrescentar ao currículo
 * Conhecer o caminho para carreira back end Java
 
-## Temas abordados
+## Temas abordados - 1º Dia
 
 ### Sistemas Web
 
@@ -13,7 +13,28 @@
 
 ---
 
-### Modelo de domínio DSList
+### API Rest
 
+![Modelo de domínio DSList](src/main/resources/image/api-rest.png)
 
-![Modelo de domínio DSList](src/main/resources/image/dslist-model.png)
+---
+
+### Padrão Camadas
+
+![Modelo de domínio DSList](src/main/resources/image/padrao-camadas.png)
+
+---
+
+### Resumo - 1º Dia
+
+* Conceitos
+** Sistemas web e recursos
+** Cliente/servidor, HTTP, JSON
+** Padrão Rest para API web
+* Estruturação de projeto Spring Rest
+* Entidades e ORM
+* Database seeding
+* Padrão camadas
+* Controller, service, repository
+* Padrão DTO
+
