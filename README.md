@@ -42,7 +42,7 @@
 
 ## Temas abordados - 2º Dia
 
-###Relacionamentos
+### Relacionamentos
 
 ![Modelo de domínio DSList](src/main/resources/image/relacionamentos.jpg)
 
@@ -66,13 +66,13 @@
 ### Perfis de projeto
 
 #### 1. Perfil de desenvolvimento e testes:
-  **- test**
-  - Banco de dados H2
+  ** * test**
+  * Banco de dados H2
 
 #### 2. Perfil de homologação / staging:**
-  **- dev**
-  - Banco de dados Postgres de homologação
+  ** * dev**
+  * Banco de dados Postgres de homologação
 
 #### 3. Perfil de produção:**
-  **- prod**
-  - Banco de dados Postgres de produção
+  ** * prod**
+  * Banco de dados Postgres de produção
