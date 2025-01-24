@@ -9,19 +9,19 @@
 
 ### Sistemas Web
 
-![Modelo de domínio DSList](src/main/resources/image/sistemas-web.jpg)
+![Sistemas Web](src/main/resources/image/sistemas-web.jpg)
 
 ---
 
 ### API Rest
 
-![Modelo de domínio DSList](src/main/resources/image/api-rest.jpg)
+![API Rest](src/main/resources/image/api-rest.jpg)
 
 ---
 
 ### Padrão Camadas
 
-![Modelo de domínio DSList](src/main/resources/image/padrao-camadas.jpg)
+![Padrao Camadas](src/main/resources/image/padrao-camadas.jpg)
 
 ---
 
@@ -38,17 +38,17 @@
 * Controller, service, repository
 * Padrão DTO
 
----
+![Linha Divisoria](src/main/resources/image/dividing-line.png)
 
 ## Temas abordados - 2º Dia
 
 ### Relacionamentos
 
-![Modelo de domínio DSList](src/main/resources/image/relacionamentos.jpg)
+![Relacionamento](src/main/resources/image/relacionamentos.jpg)
 
-![Modelo de domínio DSList](src/main/resources/image/relacionamentosModeloObjetos.jpg)
+![Relacionamentos Modelo Objetos](src/main/resources/image/relacionamentosModeloObjetos.jpg)
 
-![Modelo de domínio DSList](src/main/resources/image/relacionamentosModeloRelacional.jpg)
+![Relacionamentos Modelo Relacional](src/main/resources/image/relacionamentosModeloRelacional.jpg)
 
 ---
 
@@ -59,7 +59,7 @@
 * Consultas SQL no Spring Data JPA
 * Projections
 
----
+![Linha Divisoria](src/main/resources/image/dividing-line.png)
 
 ## Temas abordados - 3º Dia
 
@@ -132,4 +132,4 @@ CORS_ORIGINS
 * Processo de deploy com CI/CD
 * Configuração de CORS
 
----
+![Linha Divisoria](src/main/resources/image/dividing-line.png)
