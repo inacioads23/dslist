@@ -76,3 +76,19 @@
 #### 3. Perfil de produção:**
   **prod**<br/>
   Banco de dados Postgres de produção
+
+---
+  
+### Passos homologação
+
+#### Preparação do ambiente
+Docker ou Postgresql + pgAdmin ou DBeaver
+
+#### Homologação local
+
+1. Criar perfis de projeto<br/>
+/* system.properties
+2. Gerar script da base de dados<br/>
+/* apagar arquivo gerado
+3. Criar base de dados de homologação
+4. Rodar app no modo dev e validar
