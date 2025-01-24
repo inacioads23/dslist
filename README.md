@@ -7,7 +7,12 @@
 
 ## Temas abordados
 
+### Sistemas Web
+
+![Modelo de domínio DSList](src/main/resources/image/sistemas-web.jpg)
+
+
 ### Modelo de domínio DSList
 
 
-![Modelo de domínio DSList](src/main/resources/dslist-model.png)
+![Modelo de domínio DSList](src/main/resources/image/dslist-model.png)
