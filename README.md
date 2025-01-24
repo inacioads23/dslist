@@ -15,13 +15,13 @@
 
 ### API Rest
 
-![Modelo de domínio DSList](src/main/resources/image/api-rest.png)
+![Modelo de domínio DSList](src/main/resources/image/api-rest.jpg)
 
 ---
 
 ### Padrão Camadas
 
-![Modelo de domínio DSList](src/main/resources/image/padrao-camadas.png)
+![Modelo de domínio DSList](src/main/resources/image/padrao-camadas.jpg)
 
 ---
 
