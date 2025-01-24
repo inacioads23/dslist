@@ -66,13 +66,13 @@
 ### Perfis de projeto
 
 #### 1. Perfil de desenvolvimento e testes:
-  **test**\
+  **test**<br/>
   Banco de dados H2
 
 #### 2. Perfil de homologação / staging:**
-  **dev**\
+  **dev**<br/>
   Banco de dados Postgres de homologação
 
 #### 3. Perfil de produção:**
-  **prod**\
+  **prod**<br/>
   Banco de dados Postgres de produção
