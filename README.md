@@ -38,6 +38,8 @@
 * Controller, service, repository
 * Padrão DTO
 
+---
+
 ## Temas abordados - 2º Dia
 
 ### Relacionamentos
