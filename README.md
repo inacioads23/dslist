@@ -10,4 +10,4 @@
 ### Modelo de domínio DSList
 
 
-![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
+![Modelo de domínio DSList](https://raw.githubusercontent.com/inacioads23/dslist/main/resources/dslist-model.png)
