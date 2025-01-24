@@ -133,3 +133,24 @@ CORS_ORIGINS
 * Configuração de CORS
 
 ![Linha Divisoria](src/main/resources/image/dividing-line.png)
+
+## Temas abordados - 4º Dia
+
+### Endpoint especial
+
+![Endpoint](src/main/resources/image/endPoint1.png)
+
+![Endpoint](src/main/resources/image/endPoint2.png)
+
+![Endpoint](src/main/resources/image/endPoint3.png)
+
+---
+
+### Resumo - 4º Dia
+
+* Design e implementação de endpoint especial
+* Operação de atualização no Spring
+* Operações com List
+* Verbo HTTP e idempotência
+
+![Linha Divisoria](src/main/resources/image/dividing-line.png)
