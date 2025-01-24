@@ -134,7 +134,7 @@ CORS_ORIGINS
 
 ![Linha Divisoria](src/main/resources/image/dividing-line.png)
 
-## Temas abordados - 4º Dia
+## Tema abordado - 4º Dia
 
 ### Endpoint especial
 
