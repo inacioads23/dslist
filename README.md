@@ -38,3 +38,21 @@
 * Controller, service, repository
 * Padrão DTO
 
+## Temas abordados - 2º Dia
+
+### Relacionamentos
+
+![Modelo de domínio DSList](src/main/resources/image/relacionamentos.jpg)
+
+![Modelo de domínio DSList](src/main/resources/image/relacionamentosModeloObjetos.jpg)
+
+![Modelo de domínio DSList](src/main/resources/image/relacionamentosModeloRelacional.jpg)
+
+---
+
+### Resumo - 2º Dia
+
+* Relacionamentos N-N
+* Classe de associação, embedded id
+* Consultas SQL no Spring Data JPA
+* Projections
