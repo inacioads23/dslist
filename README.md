@@ -1,20 +1,13 @@
 # Projeto DSList - Intensivão Java Spring
 
----
-
 ## Finalidade do projeto
 
----
-
 * Criar um projeto Java Spring para conhecimento e para acrescentar ao currículo
-* Conhece o caminho para carreira back end Java
+* Conhecer o caminho para carreira back end Java
 
 ## Temas abordados
 
----
-
 ### Modelo de domínio DSList
 
----
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
