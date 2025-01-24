@@ -1,6 +1,6 @@
 Licença MIT
 
-Copyright (c) [2024] [José Inácio Martins de Santana]
+Copyright (c) [2025] [José Inácio Martins de Santana]
 
 É concedida permissão, gratuita, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para lidar no  Software sem restrições, incluindo, sem limitação, os direitos para usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software e permitir que as pessoas a quem o Software é destinado mobiliado para tal, sujeito às seguintes condições:
 
